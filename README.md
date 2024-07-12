@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GPT-2 Fine-tuning on ConvoAI Dataset
 
 ## Description
@@ -93,3 +94,8 @@ Contributions to improve the fine-tuning process or extend the project are welco
 - Hugging Face for providing the GPT-2 model and Transformers library
 - ConvoAI for the dataset
 - The creators of the YouTube tutorial for their helpful guide
+=======
+# finetuned-gpt2-convai
+
+This repo is about finetuning gpt2 model provided by Transformers. I fine tuned the model in convai dataset.
+>>>>>>> 1d83f9c837db2d550e827c246fcc172aa4115f0c
